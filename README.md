@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adrianne Marie Malonzo or "Andee"
 - 👀 I’m interested in Web Developing, Gaming and Software Engineering
-- 🌱 I’m currently learning Node.js / CSS / HTML / APIs / JAVASCRIPT / PHP / LARAVEL/ VUE.js / NODE.js
-- 📫 How to reach me ... malonzoandee@gmail.com / adrianne.malonzo@dlsau.edu.ph
+- 🌱 I’m currently learning Node.js / CSS / HTML / SPRING BOOT JAVA / JAVASCRIPT / PHP / LARAVEL/ VUE.js / NODE.js
+
 
 <!---
 andeeasdfg/andeeasdfg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
